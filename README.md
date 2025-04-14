@@ -1,4 +1,7 @@
 # BasededatosII
+Lorenzo Biondi
+19-0629
+
 Base de datos local en tiempo real usando JSON.
 
 Añadir main.py y db_instance.py a un mismo directorio para que funcione el programam completo.
